@@ -1,0 +1,58 @@
+Perforce - The Fast Software Configuration Management System.
+Copyright 1995-2024 Perforce Software.  All rights reserved.
+This product includes software developed by the OpenSSL Project
+for use in the OpenSSL Toolkit (http://www.openssl.org/)
+Version of OpenSSL Libraries: OpenSSL 3.0.12 24 Oct 2023
+See 'p4 help [ -l ] legal' for additional license information on
+these licenses and others.
+Extensions/scripting support built-in.
+Parallel sync threading built-in.
+Rev. P4/LINUX26X86_64/2024.1/2596294 (2024/05/09).
+
+Perforce - The Fast Software Configuration Management System.
+Copyright 1995-2024 Perforce Software.  All rights reserved.
+This product includes software developed by the OpenSSL Project
+for use in the OpenSSL Toolkit (http://www.openssl.org/)
+Version of OpenSSL Libraries: OpenSSL 3.0.12 24 Oct 2023
+This product includes software developed by the OpenLDAP Foundation
+ (http://www.openldap.org/)
+This product includes software developed by Computing Services
+at Carnegie Mellon University: Cyrus SASL (http://www.cmu.edu/computing/)
+Version of OpenLDAP Libraries: 2.5.17
+Version of Cyrus SASL Libraries: 2.1.28
+See 'p4 help [ -l ] legal' for additional license information on
+these licenses and others.
+Rev. P4BROKER/LINUX26X86_64/2024.1/2596294 (2024/05/09).
+
+Perforce - The Fast Software Configuration Management System.
+Copyright 1995-2024 Perforce Software.  All rights reserved.
+This product includes software developed by the OpenSSL Project
+for use in the OpenSSL Toolkit (http://www.openssl.org/)
+Version of OpenSSL Libraries: OpenSSL 3.0.12 24 Oct 2023
+This product includes software developed by the OpenLDAP Foundation
+ (http://www.openldap.org/)
+This product includes software developed by Computing Services
+at Carnegie Mellon University: Cyrus SASL (http://www.cmu.edu/computing/)
+Version of OpenLDAP Libraries: 2.5.17
+Version of Cyrus SASL Libraries: 2.1.28
+See 'p4 help [ -l ] legal' for additional license information on
+these licenses and others.
+Using the 'mimalloc' memory manager.
+Rev. P4D/LINUX26X86_64/2024.1/2596294 (2024/05/09).
+License: none
+
+Perforce - The Fast Software Configuration Management System.
+Copyright 1995-2024 Perforce Software.  All rights reserved.
+This product includes software developed by the OpenSSL Project
+for use in the OpenSSL Toolkit (http://www.openssl.org/)
+Version of OpenSSL Libraries: OpenSSL 3.0.12 24 Oct 2023
+This product includes software developed by the OpenLDAP Foundation
+ (http://www.openldap.org/)
+This product includes software developed by Computing Services
+at Carnegie Mellon University: Cyrus SASL (http://www.cmu.edu/computing/)
+Version of OpenLDAP Libraries: 2.5.17
+Version of Cyrus SASL Libraries: 2.1.28
+See 'p4 help [ -l ] legal' for additional license information on
+these licenses and others.
+Rev. P4P/LINUX26X86_64/2024.1/2596294 (2024/05/09).
+
